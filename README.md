@@ -1,4 +1,4 @@
-# Creacion-de-un-compilador-MENDOZA NINA ADDELRY
+COMPILADOR-MENDOZA NINA ADDERLY
 Creación de un compilador para C++ mini en español
 
 USO DEL PROGRAMA
