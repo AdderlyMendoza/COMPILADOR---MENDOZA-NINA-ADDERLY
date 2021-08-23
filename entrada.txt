@@ -1,0 +1,34 @@
+principal()
+{
+	entero a;
+	entero b := 5;
+	entero c := 5;
+	decimal dec;
+	
+	para (	entero d := 0 ; d < 10 ; d++)
+	{
+		para( entero e := 10; e >= 0; e--)
+		{
+			text variable := "local";
+		}
+  }
+}
+
+entero while(entero x){
+  mientras(f > 10)
+		{
+			text compilador;
+		}
+	
+}
+
+entero ifelse(entero y){
+  si(b==5)
+	{
+		entero z := 10;
+	}
+	sino{
+    entero zz := 55;
+	}
+}
+
